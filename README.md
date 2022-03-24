@@ -25,7 +25,7 @@ That's really it! Enjoy! :)
 ### Using Go:
 
 ```bash
-go install github.com/Un4gi/adobecc-font-converter@latest
+go install github.com/un4gi/adobecc-font-converter@latest
 ```
 
 ## Build From Source
