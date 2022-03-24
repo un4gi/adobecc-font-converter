@@ -60,7 +60,7 @@ locate and use with other software. This tool will make simple work
 of accessing your licensed and activated Adobe CC fonts in a standard
 font format of your choice. Simply run the tool as follows:
 
-afc -f [file format] -o [output file path]
+adobecc-font-converter -f [file format] -o [output file path]
 
 That's really it! Enjoy! :)`,
 	Run: func(cmd *cobra.Command, args []string) {
